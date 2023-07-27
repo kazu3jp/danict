@@ -7,7 +7,7 @@ dアニメストアの作品ページにAnnictの作品ページへのポタン�
 
 1. 拡張機能をインストールします。
     1. [Chromeはこちら](https://chrome.google.com/webstore/detail/bmbgkoaknafofcaohhalmpmkhdipklmb?authuser=0&hl=ja)
-    2. [FileFoxはこちら](https://addons.mozilla.org/ja/firefox/addon/danict/)
+    2. [FireFoxはこちら](https://addons.mozilla.org/ja/firefox/addon/danict/)
 3. 拡張機能のオプションを開きます。(拡張機能をクリックで開けます)
 4. Tokenを入力して保存ボタンを押します。
 5. dアニメストアの作品ページでボタンが表示されるか確認します。
