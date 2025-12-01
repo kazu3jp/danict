@@ -1,5 +1,8 @@
 # danict
 
+> 現在はd-Recordを使用することをおすすめします。  
+> [d-Record](https://github.com/hamachi25/d-Record)
+
 dアニメストアの作品ページにAnnictの作品ページへのポタンを設置します。  
 利用にはAnnictで発行できるTokenが必要です。 Tokenの発行方法は [ここをクリック](https://developers.annict.com/docs/authentication/personal-access-token)
 
